@@ -7,7 +7,7 @@ Logical Questions Interview
 2.Reverse a LinkList without using reverse function
   --> [Click Here](RevLinkList.java)
   
-##List of interview questions JP morgan
+## List of interview questions JP morgan
 1.	Can you apply volatile on a member field which is an object and will it guarantee thread safety
 2.	Where will you use volatile in real world scenario
 3.	Why do producer/consumer thread check condition for wait method in while loop instead of if statement
