@@ -18,7 +18,7 @@ Logical Questions Interview
 8.	How will create your own hashmap
 9.	How will design your own multithreaded collection having million of records to be accessible by multiple threads
 10.	Why did not java create list having unique records
-11.	How will you convert "123456" into Integer without using built-in functions
+11.	How will you convert "123456" into Integer without using built-in functions[Click Here](IntToNum.java)
 12.	Difference between creating String object using new keyword and string literal.
 13.	How will you pass multiple parameters to a stored procedure which can only accept 7-8 elements
 14.	What will happen if you do not use same fields while overridding equals and hashcode method
