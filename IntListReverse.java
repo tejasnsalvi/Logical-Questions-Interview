@@ -12,7 +12,7 @@ public class IntListReverse {
             temp = arr[i];
             arr[i] = arr[j];
             arr[j--] = temp;
-            if (i == mid)
+            if (i == mid-1)
                 break;
         }
 
