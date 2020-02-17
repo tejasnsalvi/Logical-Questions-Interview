@@ -6,6 +6,9 @@ Logical Questions Interview
 
 2.Reverse a LinkList without using reverse function
   --> [Click Here](RevLinkList.java)
+
+3.Reverse a Integer List without using reverse function
+  --> [Click Here](IntListReverse.java)
   
 ## List of interview questions JP morgan
 1.	Can you apply volatile on a member field which is an object and will it guarantee thread safety
